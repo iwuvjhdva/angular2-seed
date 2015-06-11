@@ -1,0 +1,25 @@
+{
+  "name": "angular2-seed",
+  "version": "1.0.0",
+  "homepage": "https://github.com/iwuvjhdva/angular2-seed",
+  "description": "TypeScript-ed Angular2 seed project",
+  "main": "index.html",
+  "moduleType": [
+    "globals"
+  ],
+  "authors": [
+    "Konstantin Alexandrov <iwuvjhdva@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular2": "https://github.com/angular/angular.git#~2.0.0-alpha.26",
+    "zone": "~0.5.0"
+  }
+}
